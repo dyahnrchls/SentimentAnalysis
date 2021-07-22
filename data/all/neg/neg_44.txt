@@ -1,0 +1,1 @@
+znga still shows red and dead on a enko view , pf box size 0 . 25 .

@@ -1,0 +1,1 @@
+fio: insightful analysis on how fusion-io is avoiding commoditization ( via user ) : .

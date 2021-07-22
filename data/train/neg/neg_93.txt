@@ -1,0 +1,2 @@
+deck: short 66 . 41.
+trailing stop 44 . 16 down from 5 prior stops of 51 . 65 , 59 . 07 , 66 . 41 , 74 . 13 & 81 . 85 - .

@@ -1,0 +1,3 @@
+tso user attached shows fib and old resistance stopping upward move.
+ will stay below both.
+ .

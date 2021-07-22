@@ -1,0 +1,1 @@
+qcom vs qqq = elative strength .

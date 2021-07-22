@@ -1,0 +1,1 @@
+fio ioscale announced today at open compute summit for hyperscale & spinning disk replacement , another game changer.

@@ -1,0 +1,3 @@
+pm 1h.
+hold 2/3 til close monday pm ( 21 bars ) and 3pm on wednesday ( 34 bars ) for the balance.
+ .

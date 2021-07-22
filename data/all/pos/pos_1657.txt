@@ -1,0 +1,1 @@
+hf entry 18 . 34 stop 17 . 55 .

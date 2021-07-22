@@ -1,0 +1,3 @@
+sto mar 425 put +1 . 98 , sto mar 465 put +10 . 75 , bto mar 475 call -17 . 65 , bto apr 480 call -21 . 65.
+aap will fill gap to 500.
+=^ . ^=.

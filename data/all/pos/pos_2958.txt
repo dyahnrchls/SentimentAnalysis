@@ -1,0 +1,1 @@
+nfx 193 . 40 stop now on rest of position.

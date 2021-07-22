@@ -1,0 +1,1 @@
+goog 809ish stop on rest of the short position.

@@ -1,0 +1,3 @@
+amzn alert update: a last minute push tried to shake out puts.
+we're hanging on for now.
+ .

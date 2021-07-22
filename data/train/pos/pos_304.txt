@@ -1,0 +1,2 @@
+dgi ftd.
+ pivot range 26 . 98 to 28 . 33 . .

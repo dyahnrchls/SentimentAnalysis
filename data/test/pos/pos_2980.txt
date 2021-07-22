@@ -1,0 +1,1 @@
+znga in at 3 . 71 1/2pos size will scale in rest if it starts to run over 3 . 80.

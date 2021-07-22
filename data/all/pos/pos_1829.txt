@@ -1,0 +1,2 @@
+user reporting that nvda tegra 4i should have a solid gp and that the integrated modem should be perform well by launch.
+great ! .

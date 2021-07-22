@@ -1,0 +1,3 @@
+ssys website investor relation page uses morningstar stats to quote mkt cap.
+mon statistics are wrong.
+there r more shares out , way more.

@@ -1,0 +1,2 @@
+goog with simple fibonacci projections on close over 739.
+127 . 2% at 766 and 161 . 8% at 802 .

@@ -1,0 +1,2 @@
+amzn - closed over volume support inside of the descending channel and tested 50% retrace.
+ .

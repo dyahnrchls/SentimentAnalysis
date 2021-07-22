@@ -1,0 +1,1 @@
+gtxi long 5 . 16 , will take early assuming no gap , spy green & detect above avg vol .

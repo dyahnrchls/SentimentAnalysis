@@ -1,0 +1,2 @@
+pcyc fresh long should be made only when the stock closes above 72 with an up candle.
+ .

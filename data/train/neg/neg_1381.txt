@@ -1,0 +1,1 @@
+shot nfx 188 . 90 stop 190 . .

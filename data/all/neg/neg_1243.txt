@@ -1,0 +1,1 @@
+af short ( ap 52 . 50 puts ) working on the highs this am : ) stochastic crossover .
